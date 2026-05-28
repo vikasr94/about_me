@@ -161,6 +161,8 @@ Projects focused on:
 
 # What You'll Find Here
 
+This repository powers my GitHub profile and hosts docs, scripts, and project resources.
+
 This GitHub contains:
 
 * Reusable analytics frameworks
