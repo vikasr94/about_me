@@ -2,7 +2,7 @@
 
 Senior Data Scientist · Experimentation · Trust & Safety · Product Analytics
 
-**[→ About me](about_me.md)** · [LinkedIn](https://www.linkedin.com/in/vikas-r/) · [GitHub profile](https://github.com/vikasr94)
+**[→ About me](about_me/README.md)** · [LinkedIn](https://www.linkedin.com/in/vikas-r/) · [GitHub profile](https://github.com/vikasr94)
 
 ---
 
@@ -19,13 +19,12 @@ Senior Data Scientist · Experimentation · Trust & Safety · Product Analytics
 
 ---
 
-## This repo
-
-Docs and scripts while topic repos are being built. See [`about_me.md`](about_me.md) for full background.
+## Repository layout
 
 ```
+about_me/      Profile and background
 docs/          Guides (e.g. LinkedIn profile)
 scripts/       GitHub workflow helpers
 ```
 
-⭐ More repos coming soon.
+⭐ More topic repos coming soon.

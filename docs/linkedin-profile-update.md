@@ -48,7 +48,7 @@ Experimentation · A/B Testing · Product Analytics · SQL · Python · Statisti
 
 Add links:
 1. GitHub profile — https://github.com/vikasr94
-2. vikr repo — https://github.com/vikasr94/vikr
+2. about_me repo — https://github.com/vikasr94/about_me
 
 ---
 
