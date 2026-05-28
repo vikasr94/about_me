@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Push branch, open PR, and merge into main. Requires: gh auth login
+# Push branch and open PR. Does NOT merge — merge after you approve on GitHub.
 set -euo pipefail
 
 REPO_DIR="$(cd "$(dirname "$0")/.." && pwd)"
@@ -21,10 +21,10 @@ PR_URL=$(gh pr create --base "$BASE" --head "$BRANCH" --title "$TITLE" --body "$
 Changes from branch \`${BRANCH}\`.
 
 ## Test plan
-- [ ] README renders correctly on GitHub
+- [ ] Review diff on GitHub
+- [ ] Approve and merge when ready
 EOF
 )")
 
 echo "PR created: $PR_URL"
-gh pr merge --merge --delete-branch
-echo "Merged and branch deleted."
+echo "Review and merge when you approve (this script does not auto-merge)."
