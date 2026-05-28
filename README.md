@@ -62,15 +62,10 @@ Senior Data Scientist | Experimentation & A/B Testing | Trust & Safety | Product
 
 ---
 
-## Repository layout
+## Repositories
 
-See **[PROJECTS.md](PROJECTS.md)** for P0 / P1 priorities.
+**This repo:** profile, `docs/`, `scripts/`.
 
-```
-P0  notebooks/  ab-testing-toolkit/  sql-product-case-studies/  data-science-interview-prep/
-P1  trust-safety-measurement/  marketplace-analytics/  ai-evaluation-frameworks/
-    experimentation-resources/  measurement-infrastructure/  product-analytics/
-docs/  scripts/
-```
+**Topic repos (siblings, not subfolders):** see **[PROJECTS.md](PROJECTS.md)** for P0 / P1 links — e.g. [notebooks](https://github.com/vikasr94/notebooks), [ab-testing-toolkit](https://github.com/vikasr94/ab-testing-toolkit).
 
-⭐ Mature folders can become standalone repos and get pinned on your profile.
+⭐ Pin your P0 repos on your [GitHub profile](https://github.com/vikasr94).
