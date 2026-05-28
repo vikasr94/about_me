@@ -49,16 +49,15 @@ Senior Data Scientist | Experimentation & A/B Testing | Trust & Safety | Product
 
 ---
 
-## Featured projects (planned)
+## Featured projects
 
 | Repo | Focus |
 |------|--------|
-| `ab-testing-toolkit` | CUPED, SRM, power analysis, experiment diagnostics |
-| `trust-safety-measurement` | Harm prevalence, ecosystem health, safety metrics |
-| `sql-product-case-studies` | Funnels, retention, marketplace analytics |
-| `data-science-interview-prep` | SQL, pandas, stats, product metrics |
-| `marketplace-analytics` | Supply/demand, pricing, conversion |
-| `ai-evaluation-frameworks` | LLM eval, safety measurement, benchmarking |
+| [notebooks](https://github.com/vikasr94/notebooks) | Learning & practice notebooks |
+| [ab-testing-toolkit](https://github.com/vikasr94/ab-testing-toolkit) | Experimentation utilities & resources |
+| [product-analytics](https://github.com/vikasr94/product-analytics) | SQL cases, funnels, retention, marketplace |
+| [trust-safety-measurement](https://github.com/vikasr94/trust-safety-measurement) | T&S and evaluation measurement |
+| [data-science-interview-prep](https://github.com/vikasr94/data-science-interview-prep) | Interview prep |
 
 ---
 
@@ -66,6 +65,6 @@ Senior Data Scientist | Experimentation & A/B Testing | Trust & Safety | Product
 
 **This repo:** profile, `docs/`, `scripts/`.
 
-**Topic repos (siblings, not subfolders):** see **[PROJECTS.md](PROJECTS.md)** for P0 / P1 links — e.g. [notebooks](https://github.com/vikasr94/notebooks), [ab-testing-toolkit](https://github.com/vikasr94/ab-testing-toolkit).
+**Topic repos (5 siblings):** see **[PROJECTS.md](PROJECTS.md)** · Cleanup plan: [docs/repo-cleanup-plan.md](docs/repo-cleanup-plan.md)
 
 ⭐ Pin your P0 repos on your [GitHub profile](https://github.com/vikasr94).
