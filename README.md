@@ -64,9 +64,13 @@ Senior Data Scientist | Experimentation & A/B Testing | Trust & Safety | Product
 
 ## Repository layout
 
+See **[PROJECTS.md](PROJECTS.md)** for P0 / P1 priorities.
+
 ```
-docs/          Guides (e.g. LinkedIn profile)
-scripts/       GitHub workflow helpers
+P0  notebooks/  ab-testing-toolkit/  sql-product-case-studies/  data-science-interview-prep/
+P1  trust-safety-measurement/  marketplace-analytics/  ai-evaluation-frameworks/
+    experimentation-resources/  measurement-infrastructure/  product-analytics/
+docs/  scripts/
 ```
 
-⭐ More topic repos coming soon.
+⭐ Mature folders can become standalone repos and get pinned on your profile.
