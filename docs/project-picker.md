@@ -1,31 +1,22 @@
-# Pick your repos (guidance only)
+# Project repos — your chosen set
 
-Choose which topics to turn into **sibling repos** next to [`about_me`](../).  
-You do not need all 10 — start with 1–4 from P0.
+You picked the **5 topic repos** below (plus `about_me`). See [repo-cleanup-plan.md](repo-cleanup-plan.md) for repos to delete after PR approval.
 
-## P0 — recommended first
+## P0
 
-| # | Suggested repo name | What it’s for |
-|---|---------------------|---------------|
-| 1 | `notebooks` | Learning notebooks (Python, pandas, practice) |
-| 2 | `ab-testing-toolkit` | CUPED, SRM, power analysis, experiment diagnostics |
-| 3 | `sql-product-case-studies` | SQL + product analytics case studies |
-| 4 | `data-science-interview-prep` | Interview prep: SQL, pandas, stats, metrics |
+| Repo | Purpose |
+|------|---------|
+| [notebooks](https://github.com/vikasr94/notebooks) | All learning Jupyter work |
+| [ab-testing-toolkit](https://github.com/vikasr94/ab-testing-toolkit) | Experimentation code + resources |
+| [product-analytics](https://github.com/vikasr94/product-analytics) | SQL cases, product & marketplace analytics |
 
-## P1 — when P0 is underway
+## P1
 
-| # | Suggested repo name | What it’s for |
-|---|---------------------|---------------|
-| 5 | `trust-safety-measurement` | T&S metrics, harm prevalence, classifier eval |
-| 6 | `marketplace-analytics` | Supply/demand, funnels, marketplace imbalance |
-| 7 | `ai-evaluation-frameworks` | LLM eval, safety measurement, benchmarking |
-| 8 | `experimentation-resources` | Curated roadmaps & links (learning path) |
-| 9 | `measurement-infrastructure` | Metric design, ecosystem health, platforms |
-| 10 | `product-analytics` | Growth, retention, cohorts, exec narratives |
+| Repo | Purpose |
+|------|---------|
+| [trust-safety-measurement](https://github.com/vikasr94/trust-safety-measurement) | T&S and AI evaluation measurement |
+| [data-science-interview-prep](https://github.com/vikasr94/data-science-interview-prep) | Interview prep materials |
 
-## How to use this
+## Not keeping (overlapping scaffolds)
 
-Reply with the numbers or names you want (e.g. `1, 2, 3`).  
-Repos are created only after you confirm — not before.
-
-**Note:** Some of these may already exist on your account from an earlier scaffold. Say if you want to keep, rename, or delete any of them.
+`sql-product-case-studies`, `marketplace-analytics`, `experimentation-resources`, `measurement-infrastructure`, `ai-evaluation-frameworks`
